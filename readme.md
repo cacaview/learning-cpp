@@ -253,19 +253,19 @@
 
 在这里你可以快速查看我编写的代码：
 
- 变量类型：[1.variable type.cpp](1.variable type.cpp) 
+ 变量类型： [1.variable-type.cpp](1.variable-type.cpp) 
 
-局部变量和全局变量： [2.Local and global variables.cpp](2.Local and global variables.cpp) 
+局部变量和全局变量： [2.Local-and-global-variables.cpp](2.Local-and-global-variables.cpp) 
 
 常量： [3.const.cpp](3.const.cpp) 
 
-字符类常量： [4.Character constants.cpp](4.Character constants.cpp) 
+字符类常量：  [4.Character-constants.cpp](4.Character-constants.cpp) 
 
 运算符： [5.operator.cpp](5.operator.cpp) 
 
-判断语句： [6.decide sentence.cpp](6.decide sentence.cpp) 
+判断语句： [6.decide-sentence.cpp](6.decide-sentence.cpp) 
 
-循环类型和循环控制语句： [7.loop sentence.cpp](7.loop sentence.cpp) 
+循环类型和循环控制语句：  [7.loop-sentence.cpp](7.loop-sentence.cpp) 
 
 数组： [8.array.cpp](8.array.cpp) 
 
